@@ -1,6 +1,6 @@
 body{
   padding: 15px;
-  background-image: url(hatter.png);
+  background-image: url(IMG/hatter.png);
 }
 
 h1{
@@ -56,7 +56,7 @@ p:first-letter{
 li{
   margin: 3px 0px;
   font-style: italic;
-  list-style-image: url(bogyo.png);
+  list-style-image: url(IMG/bogyo.png);
 }
 
 .blokktores{
